@@ -1,0 +1,15 @@
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task008\obj\Debug\net6.0\Task008.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task008\obj\Debug\net6.0\Task008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task008\obj\Debug\net6.0\Task008.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task008\obj\Debug\net6.0\Task008.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task008\obj\Debug\net6.0\Task008.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task008\bin\Debug\net6.0\Task008.exe
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task008\bin\Debug\net6.0\Task008.deps.json
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task008\bin\Debug\net6.0\Task008.runtimeconfig.json
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task008\bin\Debug\net6.0\Task008.dll
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task008\bin\Debug\net6.0\Task008.pdb
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task008\obj\Debug\net6.0\Task008.dll
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task008\obj\Debug\net6.0\refint\Task008.dll
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task008\obj\Debug\net6.0\Task008.pdb
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task008\obj\Debug\net6.0\Task008.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task008\obj\Debug\net6.0\ref\Task008.dll
