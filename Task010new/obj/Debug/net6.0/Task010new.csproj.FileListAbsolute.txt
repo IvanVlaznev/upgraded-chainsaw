@@ -1,0 +1,15 @@
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task010new\bin\Debug\net6.0\Task010new.exe
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task010new\bin\Debug\net6.0\Task010new.deps.json
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task010new\bin\Debug\net6.0\Task010new.runtimeconfig.json
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task010new\bin\Debug\net6.0\Task010new.dll
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task010new\bin\Debug\net6.0\Task010new.pdb
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task010new\obj\Debug\net6.0\Task010new.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task010new\obj\Debug\net6.0\Task010new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task010new\obj\Debug\net6.0\Task010new.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task010new\obj\Debug\net6.0\Task010new.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task010new\obj\Debug\net6.0\Task010new.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task010new\obj\Debug\net6.0\Task010new.dll
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task010new\obj\Debug\net6.0\refint\Task010new.dll
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task010new\obj\Debug\net6.0\Task010new.pdb
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task010new\obj\Debug\net6.0\Task010new.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task010new\obj\Debug\net6.0\ref\Task010new.dll
