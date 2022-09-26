@@ -1,0 +1,15 @@
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task025\obj\Debug\net6.0\Task025.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task025\obj\Debug\net6.0\Task025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task025\obj\Debug\net6.0\Task025.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task025\obj\Debug\net6.0\Task025.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task025\obj\Debug\net6.0\Task025.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task025\bin\Debug\net6.0\Task025.exe
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task025\bin\Debug\net6.0\Task025.deps.json
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task025\bin\Debug\net6.0\Task025.runtimeconfig.json
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task025\bin\Debug\net6.0\Task025.dll
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task025\bin\Debug\net6.0\Task025.pdb
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task025\obj\Debug\net6.0\Task025.dll
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task025\obj\Debug\net6.0\refint\Task025.dll
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task025\obj\Debug\net6.0\Task025.pdb
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task025\obj\Debug\net6.0\Task025.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task025\obj\Debug\net6.0\ref\Task025.dll
