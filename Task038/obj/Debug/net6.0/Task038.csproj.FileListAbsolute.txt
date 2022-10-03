@@ -1,0 +1,15 @@
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task038\bin\Debug\net6.0\Task038.exe
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task038\bin\Debug\net6.0\Task038.deps.json
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task038\bin\Debug\net6.0\Task038.runtimeconfig.json
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task038\bin\Debug\net6.0\Task038.dll
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task038\bin\Debug\net6.0\Task038.pdb
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task038\obj\Debug\net6.0\Task038.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task038\obj\Debug\net6.0\Task038.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task038\obj\Debug\net6.0\Task038.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task038\obj\Debug\net6.0\Task038.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task038\obj\Debug\net6.0\Task038.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task038\obj\Debug\net6.0\Task038.dll
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task038\obj\Debug\net6.0\refint\Task038.dll
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task038\obj\Debug\net6.0\Task038.pdb
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task038\obj\Debug\net6.0\Task038.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\GB\Seminars 30.08-27.09\Task038\obj\Debug\net6.0\ref\Task038.dll
